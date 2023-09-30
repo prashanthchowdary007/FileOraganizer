@@ -1,3 +1,7 @@
+
+// it was not used in anywere it just a thought to have. a initial stage but with out this snippet still it do greate job
+// maybe in future the class file will be useful while clustering on basice of recently opend and clustering by date and year  
+
 package FileManager;
 
 import java.io.File;
